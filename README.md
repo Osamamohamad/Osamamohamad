@@ -38,15 +38,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/osama-mohammed-b59353373">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:o.s.m.ohammad101@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/Osamamohamad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github"/>
   </a>
 </p>
 
