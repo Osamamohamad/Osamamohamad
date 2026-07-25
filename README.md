@@ -10,13 +10,11 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Computer Science & Artificial Intelligence Student
 - 🤖 Passionate about AI and Machine Learning
-- 💡 Interested in Deep Learning, Computer Vision and NLP
-- 🌱 Currently learning FastAPI & LLMs
-- 🎯 Looking for AI & Machine Learning Internship Opportunities
+- 💡 Interested in Deep Learning, Computer Vision,LLMs and NLP
 
 ---
 
@@ -28,7 +26,7 @@
 | 🚗 Driver Drowsiness Detection | CNN-based real-time driver fatigue detection system |
 | 🎵 AI Music Generation | Piano melody generation using LSTM |
 | 🌍 Language Translator | Desktop translator built with Python |
-| 🎮 Connect Four AI | AI-powered Connect Four game |
+
 
 ---
 
