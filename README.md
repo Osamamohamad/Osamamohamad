@@ -4,7 +4,7 @@
 
 ### Computer Science & AI Student @ Future University in Egypt
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+and+Deep+Learning;Large+Language+Models(LLMs);Natural+Language+Processing+(NLP);AI+Applications+with+Python+Computer+Vision;AI+Agent" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+and+Deep+Learning;Large+Language+Models(LLMs);Natural+Language+Processing+(NLP);AI+Applications+with+Python;Computer+Vision;AI+Agent" />
 
 </div>
 
