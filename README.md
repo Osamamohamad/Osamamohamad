@@ -45,11 +45,7 @@
   <a href="mailto:o.s.m.ohammad101@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/Osamamohamad">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
 </p>
 
 
