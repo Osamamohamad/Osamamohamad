@@ -37,23 +37,19 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/osama-mohammed-b59353373" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/osama-mohammed-b59353373">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-  &nbsp;
-
-  <a href="o.s.m.ohammad101@gmail.com@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:o.s.m.ohammad101@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-
-  &nbsp;
-
   <a href="https://github.com/Osamamohamad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-<div align="center">
+
+
+---
 
 ### ⭐ Thanks for visiting my profile!
 
