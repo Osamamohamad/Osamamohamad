@@ -4,7 +4,7 @@
 
 ### Computer Science & AI Student @ Future University in Egypt
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing;Building+AI+Applications+with+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning;Deep+Learning;Computer+Vision;LLMs;AI+Agent;Natural+Language+Processing;Building+AI+Applications+with+Python" />
 
 </div>
 
@@ -20,15 +20,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,git,github,mysql,vscode"/>
-
-</p>
-
----
 
 ## 📌 Featured Projects
 
@@ -41,46 +32,27 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Osamamohamad&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osamamohamad&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Osamamohamad&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/osama-mohammed-b59353373" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/osama-mohammed-b59353373">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  &nbsp;
 
-&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  &nbsp;
 
+  <a href="https://github.com/Osamamohamad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
