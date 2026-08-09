@@ -38,9 +38,7 @@
   <a href="https://www.linkedin.com/in/osama-mohammed-al-ali-b59353373/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-
-  &nbsp;&nbsp;
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:o.s.m.ohammad101@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
