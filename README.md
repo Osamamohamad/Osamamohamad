@@ -35,7 +35,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/osama-mohammed-b59353373">
+  <a href="www.linkedin.com/in/osama-mohammed-al-ali-b59353373">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
