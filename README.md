@@ -23,7 +23,8 @@
 
 | Project | Description |
 |---------|-------------|
-|🎓 AI education | AI-powered learning platform with quizzes, flashcards, PDF chat, and personalized learning |
+| 🏋️ NutriMind AI | AI-powered InBody analysis and personalized nutrition assistant using RAG ,lang chain and LLMs |
+| 🎓 AI education | AI-powered learning platform with quizzes, flashcards, PDF chat, and personalized learning |
 | 🚗 Driver Drowsiness Detection | CNN-based real-time driver fatigue detection system |
 | 🎵 AI Music Generation | Piano melody generation using LSTM |
 | 🌍 Language Translator | Desktop translator built with Python |
