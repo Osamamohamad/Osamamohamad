@@ -10,8 +10,6 @@
 
 ---
 
-##  About Me
-
 ## About Me
 
 - 🤖 AI & Computer Science Student @ Future University in Egypt
