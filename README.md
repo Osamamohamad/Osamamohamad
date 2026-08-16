@@ -12,9 +12,12 @@
 
 ##  About Me
 
-- 🎓 Computer Science & Artificial Intelligence Student
-- 🤖 Passionate about AI and Machine Learning
-- 💡 Interested in Deep Learning, Computer Vision,LLMs and NLP
+## About Me
+
+- 🤖 AI & Computer Science Student @ Future University in Egypt
+- 🧠 Building AI applications with Machine Learning, Deep Learning & LLMs
+- 🚀 Exploring AI Agents, RAG, NLP, Computer Vision & Generative AI
+- 💻 Python • PyTorch • TensorFlow • LangChain • Streamlit
 
 ---
 
