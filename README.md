@@ -30,6 +30,13 @@
 
 ---
 
+<!-- 🐍 Snake Contribution Grid Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Osamamohamad/Osamamohamad/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 🏆 Hall of Fame & National Recognitions
 
 <table>
